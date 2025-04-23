@@ -48,3 +48,7 @@ This project involves creating a **Quiz Application** that allows users to selec
    - The scores are stored temporarily within the session and can be displayed as a summary after completing the quiz.
 
 This Quiz Application is ideal for learning and self-assessment, enabling users to test their knowledge across multiple domains. It is a great tool for students, educators, or anyone looking to challenge themselves on various topics. Additionally, the application can be further extended to support features like saving progress, reviewing incorrect answers, and adding more question domains.
+
+OUTPUT OF THE TASK :
+
+![Image](https://github.com/user-attachments/assets/0eda859c-149a-4901-9ed9-23350339ce70)
